@@ -1,0 +1,88 @@
+html{
+  scroll-behavior: smooth;
+}
+.top{
+  background-color: red;
+  padding: 2% 15%;
+  color: #fff;
+}
+.top-png{
+  position:relative;
+  width: 580px;
+}
+.navbar{
+  margin-bottom: 5%;
+  color: #fff;
+}
+.top h1{
+  margin: 7% 0 3%;
+  font-size: 5rem;
+}
+
+.mid1{
+  text-align: center;
+  padding: 3% 15%;
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+
+  .carousel-control-prev-icon, .carousel-control-next-icon {
+    height: 50px;
+    width: 50px;
+    outline: black;
+    background-color: rgba(0, 0, 0, 0.3);
+
+}
+.carousel-item{
+  text-align: left;
+  padding: 2% 15%;
+
+}
+.top .row{
+  padding:3% 15% 3% 0;
+}
+.row{
+  padding: 3% 15%;
+}
+.card-img-top{
+  width:100px;
+  margin: 5% auto;
+}
+.card{
+  margin:5%;
+  text-align: center;
+  color:red;
+}
+.footer{
+  text-align: center;
+  background-color: red;
+  color:#fff;
+}
+.fp{
+  font-size: 14px;
+  margin: 0;
+}
+.logo{
+  margin: 5% auto;
+}
+.ro{
+  border-radius: 100%;
+
+}
+
+a,a:hover {
+color: #fff;
+color:inherit;
+}
+.bn{
+  padding: 3% 1%;
+}
+.cpic{
+width:auto;
+height:auto;
+}
+#gallery .carousel-item{
+  text-align: center;
+  padding: 2% 15%;
+
+}
